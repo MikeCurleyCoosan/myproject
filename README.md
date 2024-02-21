@@ -11,4 +11,9 @@ studentName = Michael Curley
 studentId = 1234567
 
 print ("Hello {}.format(studentName))
+
 ```
+
+<p style="background:black">
+<code style="background:black;color:white">C:\Users\YOUR_USERNAME> pip3 install roughviz</code>
+</p>
