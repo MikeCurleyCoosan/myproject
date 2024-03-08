@@ -25,7 +25,7 @@ The Palmer Penguins dataset is a very popular dataset for data analysis and visu
 - **flipper_length_mm**: Length of the flipper in millimeters
 - **body_mass_g**: Body mass of Penguins in grams
 - **sex**: Sex of the Penguins (male, female)
-- **year**: Year of observation (2007, 2008, 2009)
+
 
 ### ***Variable Classification***
 
