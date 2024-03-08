@@ -8,6 +8,7 @@
 
 * [Introduction](#Introduction)
 * [Dataset Columns](#dataset-columns)
+* [Variable Classification](#variable-classification)
 
 ### ***Introduction***
 
@@ -26,9 +27,13 @@ The Palmer Penguins dataset is a very popular dataset for data analysis and visu
 - **sex**: Sex of the Penguins (male, female)
 - **year**: Year of observation (2007, 2008, 2009)
 
-### ***How to Analyse the Dataset***
+### ***Variable Classification***
 
-1. 
+For efficient data handling and modleling in Python, it is imperitive to choose the correct variable types to represent the various datasets we are modeling. Numerical data types can be represented using Pythons built in native data types while categorical variables are best represented as categorical data types in pandas for memory efficiency and best performance.
+
+1. **Species**: The variety of species column is a categorical variable, as it represents different classes or categories of Penguins. There is no inherent ranking or order among the species and therefore the scale is **nominal**
+
+1. **Island**: The island column is also a categorical variable
 
 
 <p style="background:black">
