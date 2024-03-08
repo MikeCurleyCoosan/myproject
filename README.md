@@ -9,7 +9,9 @@
 
 ### ***Introduction***
 
-The palemer penguins dataset contains various size measurments for three penguin species that were observed by Dr. Kristen Gorman between 2007 and 2009 on three different islands in the Palmer Archipelago, in the Antartica region.
+This repository contains the Palmer Penguins dataset and Python code for analyzing it using a variety of Python software modules such as [pandas](https://pandas.pydata.org/), [Numy](https://numpy.org/) and [Matplotlib](https://matplotlib.org/).
+
+The Palmer Penguins dataset is a very popular dataset for data analysis and visualization tasks. It contains data on three different Penguin species collected on three islands in the Palmer Archipelago, in the Antartica region. The data was collected by Allison Horst, Alison Hill and Dr. Kristen Gorman between 2007 and 2009, and includes measurements such as bill length, bill depth, flipper length, body mass and species information for the Adelie, Chinstrap, and Gentoo penguins which were observed in these regions between the aforementioned dates.
 
 
 
