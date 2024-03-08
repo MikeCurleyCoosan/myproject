@@ -7,6 +7,7 @@
 ## Table of Contents.
 
 * [Introduction](#Introduction)
+* [Dataset Columns](#dataset-columns)
 
 ### ***Introduction***
 
@@ -24,6 +25,10 @@ The Palmer Penguins dataset is a very popular dataset for data analysis and visu
 - **body_mass_g**: Body mass of Penguins in grams
 - **sex**: Sex of the Penguins (male, female)
 - **year**: Year of observation (2007, 2008, 2009)
+
+### ***How to Analyse the Dataset***
+
+1. 
 
 
 <p style="background:black">
