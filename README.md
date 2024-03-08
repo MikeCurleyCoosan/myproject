@@ -14,7 +14,7 @@ This repository contains the Palmer Penguins dataset and Python code for analyzi
 
 The Palmer Penguins dataset is a very popular dataset for data analysis and visualization tasks. It contains data on three different Penguin species collected on three islands in the Palmer Archipelago, in the Antartica region. The data was collected by Allison Horst, Alison Hill and Dr. Kristen Gorman between 2007 and 2009, and includes measurements such as bill length, bill depth, flipper length, body mass and species information for the Adelie, Chinstrap, and Gentoo penguins which were observed in these regions between the aforementioned dates.
 
-### Dataset Columns
+### ***Dataset Columns***
 
 - **species**: Penguin species (Adelie, Chinstrap, Gentoo)
 - **island**: Island name (Biscoe, Dream, Torgersen)
