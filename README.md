@@ -35,6 +35,10 @@ For efficient data handling and modleling in Python, it is imperitive to choose 
 
 1. **Island**: The island column is also a categorical variable
 
+1. **bill_lenght**: The bill length is a numerical variable as it represents a measurable quality with a meaningful zero point. The scale type is **ratio** as they have a true zero point and no negative values. The ratios between values are meaningful, so if one observation has a value twice as large as another, then it means that the quanity being measured is also twice as large.
+
+1. **bill_depth**: The bill depth is a numerical variable as it represents a measurable quality with a meaningful zero point. The scale type is **ratio** as they have a true zero point and no negative values. The ratios between values are meaningful, so if one observation has a value twice as large as another, then it means that the quanity being measured is also twice as large.
+
 
 <p style="background:black">
 <code style="background:black;color:white">C:\Users\Mike> pip3 install roughviz</code>
