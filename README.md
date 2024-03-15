@@ -19,8 +19,11 @@
 ## Table of Contents.
 
 * [About this project](#about-this-project)
-* [Dataset Columns](#dataset-columns)
-* [Variable Classification](#variable-classification)
+* [Use of this project](#use-of-this-project)
+* [Get Started](#get-started)
+* [Get Help](#get-help)
+* [Contribute](#contribute)
+* [Author](#author)
 
 ### ***About this project***
 
