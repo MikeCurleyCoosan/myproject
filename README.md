@@ -17,11 +17,11 @@
 
 ## Table of Contents.
 
-* [Introduction](#Introduction)
+* [About this project](#about-this-project)
 * [Dataset Columns](#dataset-columns)
 * [Variable Classification](#variable-classification)
 
-### ***Introduction***
+### ***About this project***
 
 This repository contains the Palmer Penguins dataset and Python code for analyzing it using a variety of Python software modules such as [pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/) and [Matplotlib](https://matplotlib.org/).
 
@@ -50,8 +50,11 @@ For efficient data handling and modleling in Python, it is imperitive to choose 
 
 1. **bill_depth**: The bill depth is a numerical variable as it represents a measurable quality with a meaningful zero point. The scale type is **ratio** as they have a true zero point and no negative values. The ratios between values are meaningful, so if one observation has a value twice as large as another, then it means that the quanity being measured is also twice as large.
 
+### Use of this Project
 
-## Getting Started
+Why the project is useful
+
+### Get Started
 
 I used [Open in Colab](https://openincolab.com/) to generate the following clickable link. It opens the 'penguins.ipynb' notebooke in [Google Colab](https://colab.research.google.com/).
 
@@ -59,6 +62,17 @@ I used [Open in Colab](https://openincolab.com/) to generate the following click
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+### Get Help
+
+Where users can get help with your project
+
+### Contribute 
+
+Who maintains and contributes to the project
+
+### Author
+
+About me....
 
 <p style="background:black">
 <code style="background:black;color:white">C:\Users\Mike> pip3 install roughviz</code>
