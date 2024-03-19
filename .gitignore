@@ -82,6 +82,14 @@ target/
 profile_default/
 ipython_config.py
 
+# My Local Files to be ignored. Just keep the file on the local machine
+numpy.ipynb
+pandas.ipynb
+random.ipynb
+iris.ipynb
+types.ipynb
+
+
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
 #   intended to run in multiple environments; otherwise, check them in:
