@@ -89,13 +89,15 @@ Why the project is useful
 git clone https://github.com/MikeCurleyCoosan/myproject.git
 
 ```
-1. Download and install (Anaconda)[https://www.anaconda.com/]. Anaconda comes with its own set of pre-installed data science packages and tools, making it convenient for beginners to set up their environment quickly. The pre-installed packages that are required to work with the project are [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/) and [Matplotlib](https://matplotlib.org/).
+1. Download and install [Anaconda](https://www.anaconda.com/). Anaconda comes with its own set of pre-installed data science packages and tools, making it convenient for beginners to set up their environment quickly. The pre-installed packages that are required to work with the project are [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/) and [Matplotlib](https://matplotlib.org/).
 
-1. Download and install (Visual Studio Code)[https://code.visualstudio.com/]. Visual Studio Code is a code editor with support for development operations like debugging, task running, and version control.
+1. Download and install [Visual Studio Code](https://code.visualstudio.com/). Visual Studio Code is a code editor with support for development operations like debugging, task running, and version control.
 
-1. Download and install the latest version of (Git)[https://git-scm.com/]. Git is a free and open source version control system designed to handle everything from small to very large projects with speed and efficiency.
+1. Download and install the latest version of [Git](https://git-scm.com/). Git is a free and open source version control system designed to handle everything from small to very large projects with speed and efficiency.
 
 1. Navigate to the project directory in VS Code
+
+#### Alternatively, for a quick-start
 
 I used [Open in Colab](https://openincolab.com/) to generate the following clickable link. It opens the 'penguins.ipynb' notebooks in [Google Colab](https://colab.research.google.com/). You may also view/open the project in this way.
 
