@@ -42,7 +42,7 @@
 
 ### ***About this project***
 
-This repository contains the Palmer Penguins dataset and Python code for analysing it using a variety of Python software modules such as [pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/) and [Matplotlib](https://matplotlib.org/).
+This repository contains the Palmer Penguins dataset and Python code for analysing it using a variety of Python software modules such as [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/) and [Matplotlib](https://matplotlib.org/).
 
 The Palmer Penguins dataset is a very popular dataset for data analysis and visualization tasks. It contains data on three different Penguin species collected on three islands in the Palmer Archipelago, in the Antarctica region. The data was collected by Allison Horst, Alison Hill and Dr. Kristen Gorman between 2007 and 2009, and includes measurements such as bill length, bill depth, flipper length, body mass and species information for the Adelie, Chinstrap, and Gentoo penguins which were observed in these regions between the aforementioned dates. 
 
@@ -83,15 +83,21 @@ Why the project is useful
 
 #### To get stated with this project please follow these steps:
 
-1. - Clone the repository to your local machine. 
+1. Clone the repository to your local machine. 
 
 ```sh
 git clone https://github.com/MikeCurleyCoosan/myproject.git
 
 ```
+1. Download and install (Anaconda)[https://www.anaconda.com/]. Anaconda comes with its own set of pre-installed data science packages and tools, making it convenient for beginners to set up their environment quickly. The pre-installed packages that are required to work with the project are [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/) and [Matplotlib](https://matplotlib.org/).
 
+1. Download and install (Visual Studio Code)[https://code.visualstudio.com/]. Visual Studio Code is a code editor with support for development operations like debugging, task running, and version control.
 
-I used [Open in Colab](https://openincolab.com/) to generate the following clickable link. It opens the 'penguins.ipynb' notebooks in [Google Colab](https://colab.research.google.com/). This is the quickest way to get started using this project.
+1. Download and install the latest version of (Git)[https://git-scm.com/]. Git is a free and open source version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+1. Navigate to the project directory in VS Code
+
+I used [Open in Colab](https://openincolab.com/) to generate the following clickable link. It opens the 'penguins.ipynb' notebooks in [Google Colab](https://colab.research.google.com/). You may also view/open the project in this way.
 
 <a target="_blank" href="https://colab.research.google.com/github/MikeCurleyCoosan/myproject/blob/main/penguins.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
