@@ -33,14 +33,14 @@
 
 ## Table of Contents.
 
-* [About this project](#about-this-project)
-* [Use of this project](#use-of-this-project)
-* [Get Started](#get-started)
-* [Get Help](#get-help)
-* [Contribute](#contribute)
-* [Author](#author)
+* [About this project](#1.0-About-this-project)
+* [Use of this project](#2.0-use-of-this-project)
+* [Get Started](#3.0-get-started)
+* [Get Help](#4.0-get-help)
+* [Contribute](#5.0-contribute)
+* [Author](#6.0-author)
 
-## ***About this project***
+## ***1.0 About this project***
 
 This repository contains the Palmer Penguins dataset and Python code for analysing it using a variety of Python software modules such as [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/) and [Matplotlib](https://matplotlib.org/).
 
@@ -48,7 +48,7 @@ The Palmer Penguins dataset is a very popular dataset for data analysis and visu
 
 According to [Allison Horst GitHub](https://github.com/allisonhorst/palmerpenguins/blob/main/README.md) "the goal of the palmerpenguins is to provide a great dataset for data exploration and visualization, as an alternative to iris".
 
-### ***Dataset Columns***
+### ***1.1 Dataset Columns***
 
 - **species**: Penguin species (Adelie, Chinstrap, Gentoo)
 - **island**: Island name (Biscoe, Dream, Torgersen)
@@ -59,8 +59,8 @@ According to [Allison Horst GitHub](https://github.com/allisonhorst/palmerpengui
 - **sex**: Sex of the Penguins (male, female)
 
 
-### ***Variable Classification***
-
+### ***1.2 Variable Classification***
+1.2 
 For efficient data handling and modlelling in Python, it is imperative to choose the correct variable types to represent the various datasets we are modelling. Numerical data types can be represented using Pythons built in native data types while categorical variables are best represented as categorical data types in pandas for memory efficiency and best performance.
 
 1. **Species**: The variety of species column is a categorical variable, as it represents different classes or categories of Penguins. There is no inherent ranking or order among the species and therefore the scale is **nominal**
@@ -75,13 +75,13 @@ For efficient data handling and modlelling in Python, it is imperative to choose
 
 1. **body_mass**
 
-## Use of this Project
+## 2.0 Use of this Project
 
 Why the project is useful
 
-## Get Started
+## 3.0 Get Started
 
-### To get stated with this project please follow these steps:
+### 3.1 To get stated with this project please follow these steps:
 
 1. Clone the repository to your local machine. 
 
@@ -97,7 +97,7 @@ git clone https://github.com/MikeCurleyCoosan/myproject.git
 
 5. Navigate to the project directory in VS Code
 
-### Alternatively, for a quick-start
+### 3.2 Alternatively, for a quick-start
 
 I used [Open in Colab](https://openincolab.com/) to generate the following clickable link. It opens the 'penguins.ipynb' notebooks in [Google Colab](https://colab.research.google.com/). You may also view/open the project in this way.
 
@@ -107,15 +107,15 @@ I used [Open in Colab](https://openincolab.com/) to generate the following click
 
 
 
-## Get Help
+## 4.0 Get Help
 
 Where users can get help with your project
 
-## Contribute 
+## 5.0 Contribute 
 
 Who maintains and contributes to the project
 
-## Author
+## 6.0 Author
 
 About me....
 
