@@ -40,7 +40,7 @@
 * [Contribute](#contribute)
 * [Author](#author)
 
-### ***About this project***
+## ***About this project***
 
 This repository contains the Palmer Penguins dataset and Python code for analysing it using a variety of Python software modules such as [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/) and [Matplotlib](https://matplotlib.org/).
 
@@ -75,13 +75,13 @@ For efficient data handling and modlelling in Python, it is imperative to choose
 
 1. **body_mass**
 
-### Use of this Project
+## Use of this Project
 
 Why the project is useful
 
-### Get Started
+## Get Started
 
-#### To get stated with this project please follow these steps:
+### To get stated with this project please follow these steps:
 
 1. Clone the repository to your local machine. 
 
@@ -97,7 +97,7 @@ git clone https://github.com/MikeCurleyCoosan/myproject.git
 
 1. Navigate to the project directory in VS Code
 
-#### Alternatively, for a quick-start
+### Alternatively, for a quick-start
 
 I used [Open in Colab](https://openincolab.com/) to generate the following clickable link. It opens the 'penguins.ipynb' notebooks in [Google Colab](https://colab.research.google.com/). You may also view/open the project in this way.
 
@@ -107,15 +107,15 @@ I used [Open in Colab](https://openincolab.com/) to generate the following click
 
 
 
-### Get Help
+## Get Help
 
 Where users can get help with your project
 
-### Contribute 
+## Contribute 
 
 Who maintains and contributes to the project
 
-### Author
+## Author
 
 About me....
 
