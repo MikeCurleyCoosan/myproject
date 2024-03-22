@@ -49,16 +49,6 @@ The Palmer Penguins dataset is a very popular dataset for data analysis and visu
 According to [Allison Horst GitHub](https://github.com/allisonhorst/palmerpenguins/blob/main/README.md) "the goal of the palmer penguins is to provide a great dataset for data exploration and visualization, as an alternative to iris".
 
 
-
-
-
-
-
-
-
-
-
-
 ## 2.0 Use of this Project
 
 Why the project is useful
