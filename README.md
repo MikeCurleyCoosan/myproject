@@ -85,9 +85,11 @@ Why the project is useful
 
 1. - Clone the repository to your local machine. 
 
-'''sh
+```sh
 git clone https://github.com/MikeCurleyCoosan/myproject.git
-'''
+
+```
+
 
 I used [Open in Colab](https://openincolab.com/) to generate the following clickable link. It opens the 'penguins.ipynb' notebooks in [Google Colab](https://colab.research.google.com/). This is the quickest way to get started using this project.
 
