@@ -65,11 +65,15 @@ For efficient data handling and modlelling in Python, it is imperative to choose
 
 1. **Species**: The variety of species column is a categorical variable, as it represents different classes or categories of Penguins. There is no inherent ranking or order among the species and therefore the scale is **nominal**
 
-1. **Island**: The island column is also a categorical variable
+1. **Island**: The island column is also a categorical variable, as it represents places which have no inherent ranking or order which means the scale here is also **nominal**
 
 1. **bill_length**: The bill length is a numerical variable as it represents a measurable quality with a meaningful zero point. The scale type is **ratio** as they have a true zero point and no negative values. The ratios between values are meaningful, so if one observation has a value twice as large as another, then it means that the quantity being measured is also twice as large.
 
 1. **bill_depth**: The bill depth is a numerical variable as it represents a measurable quality with a meaningful zero point. The scale type is **ratio** as they have a true zero point and no negative values. The ratios between values are meaningful, so if one observation has a value twice as large as another, then it means that the quantity being measured is also twice as large.
+
+1. **flipper_length**: The flipper length is again a numerical variable. Again, the scale type is **ratio** for the same reasons as given above for bill length and bill depth.
+
+1. **body_mass**
 
 ### Use of this Project
 
@@ -77,11 +81,21 @@ Why the project is useful
 
 ### Get Started
 
-I used [Open in Colab](https://openincolab.com/) to generate the following clickable link. It opens the 'penguins.ipynb' notebooks in [Google Colab](https://colab.research.google.com/).
+#### To get stated with this project please follow these steps:
+
+1. - Clone the repository to your local machine. 
+
+'''sh
+git clone https://github.com/MikeCurleyCoosan/myproject.git
+'''
+
+I used [Open in Colab](https://openincolab.com/) to generate the following clickable link. It opens the 'penguins.ipynb' notebooks in [Google Colab](https://colab.research.google.com/). This is the quickest way to get started using this project.
 
 <a target="_blank" href="https://colab.research.google.com/github/MikeCurleyCoosan/myproject/blob/main/penguins.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+
 
 ### Get Help
 
@@ -95,6 +109,5 @@ Who maintains and contributes to the project
 
 About me....
 
-<p style="background:black">
-<code style="background:black;color:white">C:\Users\Mike> pip3 install roughviz</code>
-</p>
+
+
