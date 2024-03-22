@@ -48,32 +48,16 @@ The Palmer Penguins dataset is a very popular dataset for data analysis and visu
 
 According to [Allison Horst GitHub](https://github.com/allisonhorst/palmerpenguins/blob/main/README.md) "the goal of the palmerpenguins is to provide a great dataset for data exploration and visualization, as an alternative to iris".
 
-### ***1.1 Dataset Columns***
-
-- **species**: Penguin species (Adelie, Chinstrap, Gentoo)
-- **island**: Island name (Biscoe, Dream, Torgersen)
-- **bill_length_mm**: Length of the bill in millimetres
-- **bill_depth_mm**: Depth of the bill in millimetres
-- **flipper_length_mm**: Length of the flipper in millimetres
-- **body_mass_g**: Body mass of Penguins in grams
-- **sex**: Sex of the Penguins (male, female)
 
 
-### ***1.2 Variable Classification***
-1.2 
-For efficient data handling and modlelling in Python, it is imperative to choose the correct variable types to represent the various datasets we are modelling. Numerical data types can be represented using Pythons built in native data types while categorical variables are best represented as categorical data types in pandas for memory efficiency and best performance.
 
-1. **Species**: The variety of species column is a categorical variable, as it represents different classes or categories of Penguins. There is no inherent ranking or order among the species and therefore the scale is **nominal**
 
-1. **Island**: The island column is also a categorical variable, as it represents places which have no inherent ranking or order which means the scale here is also **nominal**
 
-1. **bill_length**: The bill length is a numerical variable as it represents a measurable quality with a meaningful zero point. The scale type is **ratio** as they have a true zero point and no negative values. The ratios between values are meaningful, so if one observation has a value twice as large as another, then it means that the quantity being measured is also twice as large.
 
-1. **bill_depth**: The bill depth is a numerical variable as it represents a measurable quality with a meaningful zero point. The scale type is **ratio** as they have a true zero point and no negative values. The ratios between values are meaningful, so if one observation has a value twice as large as another, then it means that the quantity being measured is also twice as large.
 
-1. **flipper_length**: The flipper length is again a numerical variable. Again, the scale type is **ratio** for the same reasons as given above for bill length and bill depth.
 
-1. **body_mass**
+
+
 
 ## 2.0 Use of this Project
 
