@@ -11,10 +11,10 @@
 TASKS(40%)
 
 - [x] Create a GitHub repository with a README.md and a .gitignore. Add a jupyter notebook called penguins.ipynb and add a title to it.
-- [ ] Find the palmerpenguins data set online and load it into your Jupyter notebook. In your notebook, give an overview of the dataset
+- [x] Find the palmerpenguins data set online and load it into your Jupyter notebook. In your notebook, give an overview of the dataset
       and the variables it contains,
 - [ ] Suggest the types of variables that should be used to model the variables in the data set in Python, explaining your rationale.
-- [ ] Create a bar chart of an appropriate variable in the data-sett. Then create a histogram of an appropriate vairable in the data set.
+- [x] Create a bar chart of an appropriate variable in the data-set. Then create a histogram of an appropriate vairable in the data set.
 
 PROJECT(40%)
 
