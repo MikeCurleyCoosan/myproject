@@ -4,6 +4,13 @@
 
 ![Palmer Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
 
+This readme has being written with [GitHub's documentation on READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/
+customizing-your-repository/about-readmes) in mind. You should refer to that documentation for more information on writing an appropriate README for visitore to your repository.
+
+You can find out more about writing in MarkDown [in GitHub's documentation](https://docs.github.com/en/get-started/writing-on-github/
+getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+
 <a target="_blank" href="https://docs.python.org/3/tutorial/index.html">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> </a>
 <a target="_blank" href="https://www.anaconda.com/">
