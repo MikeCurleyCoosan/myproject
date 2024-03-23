@@ -44,8 +44,8 @@ _You can find out more about writing in MarkDown in [GitHub Documentation](https
 
 ## Table of Contents.
 
-* [About this project](#1.0-About-this-project)
-* [Use of this project](#2.0-use-of-this-project)
+* [About this project](#1.0-about-this-project)
+* [Use of this roject](#2.0-use-of-this-project)
 * [Get Started](#3.0-get-started)
 * [Get Help](#4.0-get-help)
 * [Contribute](#5.0-contribute)
@@ -109,3 +109,6 @@ I am a student in the Higher Diploma in Data Analytics Course in ATU, Galway Ire
 ### References
 
 - Reference #1: https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv
+- Reference #2: https://www.geeksforgeeks.org/how-to-create-a-pie-chart-in-seaborn/
+- Reference #3: https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html
+
