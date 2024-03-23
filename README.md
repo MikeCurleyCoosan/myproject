@@ -44,12 +44,12 @@ _You can find out more about writing in MarkDown in [GitHub Documentation](https
 
 ## Table of Contents.
 
-* [About this project](#1.0-about-this-project)
-* [Use of this roject](#2.0-use-of-this-project)
-* [Get Started](#3.0-get-started)
-* [Get Help](#4.0-get-help)
-* [Contribute](#5.0-contribute)
-* [Author](#6.0-author)
+* [About this project](#10-about-this-project)
+* [Use of this project](#20-use-of-this-project)
+* [Get Started](#30-get-started)
+* [Get Help](#40-get-help)
+* [Contribute](#50-contribute)
+* [Author](#60-author)
 
 ## ***1.0 About this project***
 
