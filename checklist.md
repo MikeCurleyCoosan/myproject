@@ -3,7 +3,7 @@
 - [ ] Source and investigate sets of data
 - [ ] Programmatically explore and visualise data
 - [ ] Apply basic mathematical data analysis techniques to data sets
-- [ ] Model real-world probles for analysis by computer
+- [ ] Model real-world problems for analysis by computer
 - [ ] Provide evidence in a decision-making process using a data set.
 - [ ] Appreciate the limitations of graphical representations in data intensive workflows.
 

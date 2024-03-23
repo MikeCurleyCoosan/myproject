@@ -106,5 +106,6 @@ Who maintains and contributes to the project
 
 I am a student in the Higher Diploma in Data Analytics Course in ATU, Galway Ireland.
 
+### References
 
-
+- Reference #1: https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv
