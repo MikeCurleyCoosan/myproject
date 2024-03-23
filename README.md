@@ -33,7 +33,7 @@
 </a>
 </div>
 
-
+-----
 
 _This README has being written with [GitHub's Documentation on README's](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) in mind. You should refer to that documentation for more information on writing an appropriate README for visitors to your 
 repository._
@@ -94,7 +94,7 @@ I used [Open in Colab](https://openincolab.com/) to generate the following click
 
 ## 4.0 Get Help
 
-Where users can get help with your project
+If you encounter any issues or have any questions about this project please [open an issue](https://github.com/MikeCurleyCoosan/myproject/issues) on GitHub. Alternatively you can contact me at G00376456@atu.ie. 
 
 ## 5.0 Contribute 
 
