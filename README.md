@@ -4,7 +4,7 @@
 
 ![Palmer Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
 
-
+<div>
 <a target="_blank" href="https://docs.python.org/3/tutorial/index.html">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> </a>
 <a target="_blank" href="https://www.anaconda.com/">
@@ -31,6 +31,7 @@
 <a target="_blank" href="https://jupyter.org/">
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
 </a>
+</div>
 
 
 
