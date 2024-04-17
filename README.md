@@ -1,4 +1,3 @@
-# myproject
 
 ![Project Banner](Images/Principles_of_Data_Analytics_Project.png)
 
