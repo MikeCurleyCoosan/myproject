@@ -1,5 +1,7 @@
 # myproject
 
+![Project Banner](Images/Principles_of_Data_Analytics_Project.png)
+
 ## **by Michael Curley**
 
 ![Palmer Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
