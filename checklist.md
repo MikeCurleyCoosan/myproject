@@ -1,11 +1,11 @@
  TaskList
 
-- [ ] Source and investigate sets of data
-- [ ] Programmatically explore and visualise data
-- [ ] Apply basic mathematical data analysis techniques to data sets
+- [x] Source and investigate sets of data
+- [x] Programmatically explore and visualise data
+- [x] Apply basic mathematical data analysis techniques to data sets
 - [ ] Model real-world problems for analysis by computer
-- [ ] Provide evidence in a decision-making process using a data set.
-- [ ] Appreciate the limitations of graphical representations in data intensive workflows.
+- [x] Provide evidence in a decision-making process using a data set.
+- [x] Appreciate the limitations of graphical representations in data intensive workflows.
 
 
 TASKS(40%)
@@ -13,7 +13,7 @@ TASKS(40%)
 - [x] Create a GitHub repository with a README.md and a .gitignore. Add a jupyter notebook called penguins.ipynb and add a title to it.
 - [x] Find the palmerpenguins data set online and load it into your Jupyter notebook. In your notebook, give an overview of the dataset
       and the variables it contains,
-- [ ] Suggest the types of variables that should be used to model the variables in the data set in Python, explaining your rationale.
+- [x] Suggest the types of variables that should be used to model the variables in the data set in Python, explaining your rationale.
 - [x] Create a bar chart of an appropriate variable in the data-set. Then create a histogram of an appropriate vairable in the data set.
 
 PROJECT(40%)
