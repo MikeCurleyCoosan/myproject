@@ -4,6 +4,8 @@
 
 ![Palmer Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
 
+_The Palmer Penguins, artwork by @allison_horst_
+
 <div>
 <a target="_blank" href="https://docs.python.org/3/tutorial/index.html">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> </a>
