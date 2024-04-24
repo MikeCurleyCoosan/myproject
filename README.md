@@ -1,8 +1,8 @@
 
 ![Project Banner](Images/Principles_of_Data_Analytics_Project.png)
-<div>
+<div align='center'>
 | **Topic**          | **Details**                        |
-|:--------------------:|:------------------------------------:|
+|--------------------|:------------------------------------|
 | **Module**         | 8632 - Principles of Data Analysis |
 | **Lecturer**       | Dr. Ian McLoughinl                 |
 | **Student Name**   | Michael Curley                     |
@@ -66,6 +66,7 @@ _You can find out more about writing in MarkDown in [GitHub Documentation](https
 * [Author](#60-author)
 
 ## ***1.0 About this project***
+----
 
 This repository contains the Palmer Penguins dataset and Python code for analysing it using a variety of Python software modules such as [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/) and [Matplotlib](https://matplotlib.org/).
 
@@ -75,6 +76,7 @@ The Palmer Penguins dataset is a very popular dataset for data analysis and visu
 
 
 ## 2.0 Use of this Project
+----
 
 This project has being used as a learning tool to introduce students to data analysis concepts and techniques using real-world datasets. The project provides Python based analysis tools for studying the Palmer Penguin dataset. Whether you're a researcher, student, or data enthusiast, this project offers a powerful set of tools and functionalities to analyze and visualize penguin datasets, particularly for those who are new to data analytics.
 
@@ -83,6 +85,7 @@ This project has being used as a learning tool to introduce students to data ana
 To start using the Python Penguins project, simply follow the steps outlined in the [Get Started](#30-get-started) section below. Once you have set up the project, you can begin exploring and analyzing penguin data right away.
 
 ## 3.0 Get Started
+----
 
 ### 3.1 To get stated with this project please follow these steps:
 
@@ -110,6 +113,7 @@ I used [Open in Colab](https://openincolab.com/) to generate the following click
 
 
 ## 4.0 Get Help
+----
 
 If you encounter any issues or have questions about the project, there are several resources available to help you:
 
@@ -125,10 +129,12 @@ Please don't hesitate to reach out if you need help or have feedback on how we c
 
 
 ## 5.0 Contribute 
+----
 
 Who maintains and contributes to the project
 
 ## 6.0 Author
+----
 
 ### About Me: 
 
