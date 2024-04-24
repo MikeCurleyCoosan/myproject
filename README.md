@@ -52,10 +52,15 @@ _You can find out more about writing in MarkDown in [GitHub Documentation](https
 
 ## Table of Contents.
 
-* [About this project](#10-about-this-project)
-* [Use of this project](#20-use-of-this-project)
-* [Get Started](#30-get-started)
-* [Get Help](#40-get-help)
+* [1.0 About this project](#10-about-this-project)
+* [2.0 Use of this project](#20-use-of-this-project)
+  * [2.1 Getting Started](#22-getting-started)
+* [3.0 Get Started](#30-get-started)
+  * [3.1 To get started follow these instructions](#31-to-get-stated-with-this-project-please-follow-these-steps)
+  * [3.2 Quickstart - Colab Notebook](#32-alternatively-for-a-quick-start)
+* [4.0 Get Help](#40-get-help)
+  * [4.1 Issue Tracker](#41-issue-tracker)
+  * [4.2 Contact Us](#42-contact-us)
 * [Contribute](#50-contribute)
 * [Author](#60-author)
 
@@ -70,7 +75,11 @@ According to [Allison Horst GitHub](https://github.com/allisonhorst/palmerpengui
 
 ## 2.0 Use of this Project
 
-Why the project is useful
+This project has being used as a learning tool to introduce students to data analysis concepts and techniques using real-world datasets. The project provides Python based analysis tools for studying the Palmer Penguin dataset. Whether you're a researcher, student, or data enthusiast, this project offers a powerful set of tools and functionalities to analyze and visualize penguin datasets, particularly for those who are new to data analytics.
+
+### 2.1 Getting Started
+
+To start using the Python Penguins project, simply follow the steps outlined in the [Get Started](#30-get-started) section below. Once you have set up the project, you can begin exploring and analyzing penguin data right away.
 
 ## 3.0 Get Started
 
@@ -99,10 +108,20 @@ I used [Open in Colab](https://openincolab.com/) to generate the following click
 </a>
 
 
-
 ## 4.0 Get Help
 
-If you encounter any issues or have any questions about this project please [open an issue](https://github.com/MikeCurleyCoosan/myproject/issues) on GitHub. Alternatively you can contact me at G00376456@atu.ie. 
+If you encounter any issues or have questions about the project, there are several resources available to help you:
+
+### 4.1 Issue Tracker
+
+Visit our [issue tracker](https://github.com/MikeCurleyCoosan/myproject/issues) on GitHub to see if your problem has already been reported or to report a new issue. Feel free to join any ongoing discussions related to bugs or feature requests.
+
+### 4.2 Contact Us
+
+If you need further assistance or have any other inquiries, you can reach out to us via [email](G00376456@gatu.ie). We're here to help and will do our best to respond to your inquiries in a timely manner.
+
+Please don't hesitate to reach out if you need help or have feedback on how we can improve the project.
+
 
 ## 5.0 Contribute 
 
