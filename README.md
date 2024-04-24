@@ -83,6 +83,7 @@ This project has being used as a learning tool and an introduction to data analy
 ### 2.1 Getting Started
 
 To start using the Python Penguins project, simply follow the steps outlined in the [Get Started](#30-get-started) section below. Once you have set up the project, you can begin exploring and analyzing penguin data right away.
+
 ----
 ## 3.0 Get Started
 ----
