@@ -114,9 +114,7 @@ Who maintains and contributes to the project
 
 I am a student in the Higher Diploma in Data Analytics Course in ATU, Galway Ireland.
 
-### References
 
-- Reference #1: https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv
-- Reference #2: https://www.geeksforgeeks.org/how-to-create-a-pie-chart-in-seaborn/
-- Reference #3: https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html
+
+
 
