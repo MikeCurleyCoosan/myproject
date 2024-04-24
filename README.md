@@ -1,13 +1,30 @@
 
 ![Project Banner](Images/Principles_of_Data_Analytics_Project.png)
-<div align='center'>
+<div>
+  <table>
+    <tr>
+      <th>Topic</th>
+      <th>Details</th>
+    </tr>
+    <tr>
+      <td>Modules</td>
+      <td>8632 - Principles of Data Analytics</td>
+    </tr>
+    <tr>
+      <td>Student Name</td>
+      <td>Michael Curley</td>
+    </tr>
+  </table>
+</div>
+
+
 | **Topic**          | **Details**                        |
 |--------------------|------------------------------------|
-| **Module**         | 8632 - Principles of Data Analysis |
+| **Module**         | 8632 - Principles of Data Analytics |
 | **Lecturer**       | Dr. Ian McLoughinl                 |
 | **Student Name**   | Michael Curley                     |
 | **Student Number** | G00376456                          |
-</div>
+
 
 ![Palmer Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
 
