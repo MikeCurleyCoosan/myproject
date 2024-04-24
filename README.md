@@ -2,7 +2,7 @@
 ![Project Banner](Images/Principles_of_Data_Analytics_Project.png)
 <div align='center'>
 | **Topic**          | **Details**                        |
-|--------------------|:------------------------------------|
+|--------------------|------------------------------------|
 | **Module**         | 8632 - Principles of Data Analysis |
 | **Lecturer**       | Dr. Ian McLoughinl                 |
 | **Student Name**   | Michael Curley                     |
