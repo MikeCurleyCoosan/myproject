@@ -64,7 +64,7 @@ _You can find out more about writing in MarkDown in [GitHub Documentation](https
   * [4.2 Contact Us](#42-contact-us)
 * [Contribute](#50-contribute)
 * [Author](#60-author)
-
+----
 ## ***1.0 About this project***
 ----
 
@@ -74,7 +74,7 @@ The Palmer Penguins dataset is a very popular dataset for data analysis and visu
 
 >The goal of the palmer penguins is to provide a great dataset for data exploration and visualization, as an alternative to iris". - [Alison Horst -Github](https://github.com/allisonhorst/palmerpenguins/blob/main/README.md)
 
-
+----
 ## 2.0 Use of this Project
 ----
 
@@ -83,7 +83,7 @@ This project has being used as a learning tool and an introduction to data analy
 ### 2.1 Getting Started
 
 To start using the Python Penguins project, simply follow the steps outlined in the [Get Started](#30-get-started) section below. Once you have set up the project, you can begin exploring and analyzing penguin data right away.
-
+----
 ## 3.0 Get Started
 ----
 
@@ -111,7 +111,7 @@ I used [Open in Colab](https://openincolab.com/) to generate the following click
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-
+----
 ## 4.0 Get Help
 ----
 
@@ -127,7 +127,7 @@ If you need further assistance or have any other inquiries, you can reach out to
 
 Please don't hesitate to reach out if you need help or have feedback on how we can improve the project.
 
-
+----
 ## 5.0 Contribute 
 ----
 
@@ -141,12 +141,13 @@ Have an idea for a new feature or enhancement? Feel free to [open a feature requ
 
 If you're interested in contributing code, we'd love to have your help! You can [fork the repository](link-to-fork) and submit a pull request with your changes. 
 
+----
 ## 6.0 Author
 ----
 
 ### About Me: 
 
-I am a student in the Higher Diploma in Data Analytics Course in ATU, Galway Ireland.
+My name is Michael Curley and I am a student in the Higher Diploma in Data Analytics Course in ATU, Galway Ireland. 
 
 
 
