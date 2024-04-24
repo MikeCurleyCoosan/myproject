@@ -1,22 +1,5 @@
 
 ![Project Banner](Images/Principles_of_Data_Analytics_Project.png)
-<div>
-  <table>
-    <tr>
-      <th>Topic</th>
-      <th>Details</th>
-    </tr>
-    <tr>
-      <td>Modules</td>
-      <td>8632 - Principles of Data Analytics</td>
-    </tr>
-    <tr>
-      <td>Student Name</td>
-      <td>Michael Curley</td>
-    </tr>
-  </table>
-</div>
-
 
 | **Topic**          | **Details**                        |
 |--------------------|------------------------------------|
@@ -95,7 +78,7 @@ The Palmer Penguins dataset is a very popular dataset for data analysis and visu
 ## 2.0 Use of this Project
 ----
 
-This project has being used as a learning tool to introduce students to data analysis concepts and techniques using real-world datasets. The project provides Python based analysis tools for studying the Palmer Penguin dataset. Whether you're a researcher, student, or data enthusiast, this project offers a powerful set of tools and functionalities to analyze and visualize penguin datasets, particularly for those who are new to data analytics.
+This project has being used as a learning tool and an introduction to data analytics concepts and techniques using a real-world dataset. The project provides Python based tools for studying the Palmer Penguin dataset. Whether you're a researcher, student, or data enthusiast, this project offers a powerful set of tools and functionalities to analyze and visualize the Palmer Penguin dataset, particularly for those who are new to data analytics.
 
 ### 2.1 Getting Started
 
@@ -148,7 +131,15 @@ Please don't hesitate to reach out if you need help or have feedback on how we c
 ## 5.0 Contribute 
 ----
 
-Who maintains and contributes to the project
+Contributions from the community to help improve the project are welcome. Whether you're a developer, data scientist, or penguin enthusiast, there are several ways you can contribute:
+
+### 5.1 Feature Requests
+
+Have an idea for a new feature or enhancement? Feel free to [open a feature request](https://github.com/MikeCurleyCoosan/myproject/issues) on our GitHub repository. We value your feedback and are always looking for ways to enhance the project.
+
+### 5.2 Code Contributions
+
+If you're interested in contributing code, we'd love to have your help! You can [fork the repository](link-to-fork) and submit a pull request with your changes. 
 
 ## 6.0 Author
 ----
