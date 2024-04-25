@@ -1,13 +1,6 @@
 
 ![Project Banner](Images/Principles_of_Data_Analytics_Project.png)
 
-| **Topic**          | **Details**                        |
-|--------------------|------------------------------------|
-| **Module**         | 8632 - Principles of Data Analytics |
-| **Lecturer**       | Dr. Ian McLoughinl                 |
-| **Student Name**   | Michael Curley                     |
-| **Student Number** | G00376456                          |
-
 
 ![Palmer Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
 
@@ -72,7 +65,7 @@ This repository contains the Palmer Penguins dataset and Python code for analysi
 
 The Palmer Penguins dataset is a very popular dataset for data analysis and visualization tasks. It contains data on three different Penguin species collected on three islands in the Palmer Archipelago, in the Antarctica region. The data was collected by Allison Horst, Alison Hill and Dr. Kristen Gorman between 2007 and 2009, and includes measurements such as bill length, bill depth, flipper length, body mass and species information for the Adelie, Chinstrap, and Gentoo penguins which were observed in these regions between the aforementioned dates. 
 
->The goal of the palmer penguins is to provide a great dataset for data exploration and visualization, as an alternative to iris". - [Alison Horst -Github](https://github.com/allisonhorst/palmerpenguins/blob/main/README.md)
+>The goal of the palmer penguins is to provide a great dataset for data exploration and visualization, as an alternative to iris". - [Allison Horst -Github](https://github.com/allisonhorst/palmerpenguins/blob/main/README.md)
 
 ----
 ## 2.0 Use of this Project
@@ -96,13 +89,15 @@ To start using the Python Penguins project, simply follow the steps outlined in 
 git clone https://github.com/MikeCurleyCoosan/myproject.git
 
 ```
-2. Download and install [Anaconda](https://www.anaconda.com/). Anaconda comes with its own set of pre-installed data science packages and tools, making it convenient for beginners to set up their environment quickly. The pre-installed packages that are required to work with the project are [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/) and [Matplotlib](https://matplotlib.org/).
+2. Download and install [Anaconda](https://www.anaconda.com/). Anaconda comes with its own set of pre-installed data science packages and tools, making it convenient for beginners to set up their environment quickly. The pre-installed packages that are required to work with the project are [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/) [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/index.html).
 
 3. Download and install [Visual Studio Code](https://code.visualstudio.com/). Visual Studio Code is a code editor with support for development operations like debugging, task running, and version control.
 
 4. Download and install the latest version of [Git](https://git-scm.com/). Git is a free and open source version control system designed to handle everything from small to very large projects with speed and efficiency.
 
-5. Navigate to the project directory in VS Code
+5. Navigate to the project directory in VS Code.
+
+6. Select the penguins.ipynb in the project explorer window in VS Code.
 
 ### 3.2 Alternatively, for a quick-start
 
@@ -116,7 +111,7 @@ I used [Open in Colab](https://openincolab.com/) to generate the following click
 ## 4.0 Get Help
 ----
 
-If you encounter any issues or have questions about the project, there are several resources available to help you:
+If you encounter any issues or have questions about the project, there are a couple of resources available to help you:
 
 ### 4.1 Issue Tracker
 
@@ -124,9 +119,8 @@ Visit our [issue tracker](https://github.com/MikeCurleyCoosan/myproject/issues) 
 
 ### 4.2 Contact Us
 
-If you need further assistance or have any other inquiries, you can reach out to us via [email](G00376456@gatu.ie). We're here to help and will do our best to respond to your inquiries in a timely manner.
-
-Please don't hesitate to reach out if you need help or have feedback on how we can improve the project.
+If you need further assistance or have any other inquiries, you can reach out to me via [email](G00376456@gatu.ie). I will do my best to respond to your enquiry in a timely manner.
+Please don't hesitate to reach out if you need help or have feedback on how the project may be improved.
 
 ----
 ## 5.0 Contribute 
@@ -140,7 +134,7 @@ Have an idea for a new feature or enhancement? Feel free to [open a feature requ
 
 ### 5.2 Code Contributions
 
-If you're interested in contributing code, we'd love to have your help! You can [fork the repository](link-to-fork) and submit a pull request with your changes. 
+If you're interested in contributing code, I would love to have your help! You can [open a pull request](https://github.com/MikeCurleyCoosan/myproject/pulls) on our GitHub repository here, which I will endevour to respond to in a timely manner.
 
 ----
 ## 6.0 Author
@@ -148,7 +142,7 @@ If you're interested in contributing code, we'd love to have your help! You can 
 
 ### About Me: 
 
-My name is Michael Curley and I am a student in the Higher Diploma in Data Analytics Course in ATU, Galway Ireland. 
+My name is Michael Curley and I am a student in the Higher Diploma in Data Analytics Course in ATU, Galway Ireland. This project was undertaken as part of the Principles of Data Analytics Module undertaken as part of that course of study.
 
 
 
