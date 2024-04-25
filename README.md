@@ -71,7 +71,7 @@ The Palmer Penguins dataset is a very popular dataset for data analysis and visu
 ## 2.0 Use of this Project
 ----
 
-This project has being used as a learning tool and an introduction to data analytics concepts and techniques using a real-world dataset. The project provides Python based tools for studying the Palmer Penguin dataset. Whether you're a researcher, student, or data enthusiast, this project offers a powerful set of tools and functionalities to analyze and visualize the Palmer Penguin dataset, particularly for those who are new to data analytics.
+This project has being used as a learning tool and an introduction to data analytics concepts and techniques using a real-world dataset ([The Palmer Penguins Dataset](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv)). The project provides Python based tools for studying the dataset. Whether you're a researcher, student, or data enthusiast, this project offers a powerful set of tools and functionalities to help analyze and visualize the Palmer Penguin dataset, particularly for those who are new to data analytics.
 
 ### 2.1 Getting Started
 
@@ -130,11 +130,11 @@ Contributions from the community to help improve the project are welcome. Whethe
 
 ### 5.1 Feature Requests
 
-Have an idea for a new feature or enhancement? Feel free to [open a feature request](https://github.com/MikeCurleyCoosan/myproject/issues) on our GitHub repository. We value your feedback and are always looking for ways to enhance the project.
+Have an idea for a new feature or enhancement? Feel free to [open a feature request](https://github.com/MikeCurleyCoosan/myproject/issues) on our GitHub repository. I value your feedback and are always looking for ways to enhance the project.
 
 ### 5.2 Code Contributions
 
-If you're interested in contributing code, I would love to have your help! You can [open a pull request](https://github.com/MikeCurleyCoosan/myproject/pulls) on our GitHub repository here, which I will endevour to respond to in a timely manner.
+If you're interested in contributing code, I would love to have your help! You can [open a pull request](https://github.com/MikeCurleyCoosan/myproject/pulls) on our GitHub repository, which I will endevour to respond to in a timely manner.
 
 ----
 ## 6.0 Author
