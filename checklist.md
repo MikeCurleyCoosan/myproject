@@ -3,7 +3,7 @@
 - [x] Source and investigate sets of data
 - [x] Programmatically explore and visualise data
 - [x] Apply basic mathematical data analysis techniques to data sets
-- [ ] Model real-world problems for analysis by computer
+- [x] Model real-world problems for analysis by computer
 - [x] Provide evidence in a decision-making process using a data set.
 - [x] Appreciate the limitations of graphical representations in data intensive workflows.
 
@@ -18,33 +18,33 @@ TASKS(40%)
 
 PROJECT(40%)
 
-- [ ] Select two variables from the data set and provied analysis of how correlated they are.
+- [x] Select two variables from the data set and provied analysis of how correlated they are.
 
 Presentation(20%)
 
-- [ ] Ensure your repository is tidy, with no unnecessary items. Ensure your README>md and .gitignore files are appropriate. Make sure
+- [x] Ensure your repository is tidy, with no unnecessary items. Ensure your README>md and .gitignore files are appropriate. Make sure
       your notebook contains a single cohesive narrative about the dataset.
 
 Marking Scheme
 
 Research
-- [ ] Evidence of research
-- [ ] Appropiate referencing
+- [x] Evidence of research
+- [x] Appropiate referencing
 - [ ] Building on work in the literature
 - [ ] Comparison to similar work
 
 Development
-- [ ] Clear, concise, and correct code
-- [ ] Appropriate tests
-- [ ] Demonstrate knowledge of different approaches and algorithms
-- [ ] Clean architecture
+- [x] Clear, concise, and correct code
+- [x] Appropriate tests
+- [x] Demonstrate knowledge of different approaches and algorithms
+- [x] Clean architecture
 
 Documentation
-- [ ] Clear explanations of concepts in notebooks
-- [ ] Concise comments in code and elsewhere
-- [ ] Appropriate, standard README for a GitHub repository.
+- [x] Clear explanations of concepts in notebooks
+- [x] Concise comments in code and elsewhere
+- [x] Appropriate, standard README for a GitHub repository.
 
 Consistency
-- [ ] Lots of commits, each representing a reasonable amount of work
-- [ ] Literature, documentation, and code evidencing work on the assessment.
-- [ ] Evidence of review and refactoring.
+- [x] Lots of commits, each representing a reasonable amount of work
+- [x] Literature, documentation, and code evidencing work on the assessment.
+- [x] Evidence of review and refactoring.
